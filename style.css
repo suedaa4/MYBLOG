@@ -4,49 +4,35 @@ body {
     line-height: 3;
     color: rgb(143, 46, 78);
   }
-  
-  /* Başlık */
   header {
     background: #cf359c;
     padding: 15px;
     text-align: center;
-  }
-  
-  
-  /* Navigasyon */
+  }  
   nav ul {
     list-style: none;
     padding: 0;
   }
-  
   nav ul li {
     display: inline;
     margin-right: 20px;
   }
-  
   nav ul li a {
     text-decoration: none;
     color: rgb(187, 97, 142);
   }
-  
-  /* Ana bölüm */
   main {
     padding: 15px;
   }
-  
   .featured-posts article {
     border-bottom: 1px solid #ccc;
     margin-bottom: 15px;
     padding-bottom: 15px;
   }
-  
-  
-  
   .featured-posts a {
     text-decoration: none;
     color: rgb(49, 94, 240);
   }
-  
   .featured-posts a:hover {
     text-decoration: underline;
   }
